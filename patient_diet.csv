@@ -1,0 +1,101 @@
+Patient ID,Patient Name,Gender,Age,Height (cm),Weight (kg),BMI,Diabetes,Diet Plan
+5053,Jane Davis,Male,43,187,94,26.53,No,Low Carb
+3911,Emily Johnson,Male,63,200,119,20.94,Yes,Keto
+6558,Michael Martinez,Female,31,187,71,18.61,Yes,Mediterranean
+3382,Chris Garcia,Male,57,187,91,25.65,No,Low Carb
+8964,Chris Anderson,Male,45,158,86,29.25,No,Low Carb
+5810,Chris Brown,Male,58,177,118,26.57,No,Balanced
+4654,Michael Garcia,Female,78,167,64,32.44,Yes,Vegan
+1068,Jane Miller,Female,40,174,78,28.67,Yes,Mediterranean
+3509,John Davis,Female,69,170,97,38.09,No,Mediterranean
+3280,John Martinez,Male,36,171,65,45.72,Yes,Low Carb
+3874,Alex Davis,Female,31,197,92,32.83,No,Vegan
+8807,Sarah Williams,Female,77,188,60,36.74,Yes,Mediterranean
+8909,Emily Williams,Male,23,188,93,27.44,No,Keto
+7512,Chris Miller,Male,68,176,95,16.75,No,Keto
+5077,David Jones,Male,56,184,90,20.01,No,Mediterranean
+4449,Chris Smith,Female,21,186,85,25.99,Yes,Keto
+1809,John Smith,Female,52,196,112,43.15,No,Mediterranean
+6570,John Jones,Male,46,168,93,28.67,Yes,Vegan
+8279,Sarah Davis,Female,60,190,63,23.09,No,Balanced
+2253,Michael Miller,Male,52,196,109,30.49,No,Keto
+2479,Anna Anderson,Male,38,174,83,24.35,Yes,Keto
+3997,Emily Williams,Male,62,178,63,24.67,No,Keto
+8402,Alex Brown,Female,33,174,92,42.85,No,Keto
+3861,Jane Miller,Female,32,179,56,26.35,Yes,Vegan
+6008,Emily Martinez,Female,77,185,78,27.17,Yes,Mediterranean
+3269,David Garcia,Female,29,171,120,26.88,Yes,Low Carb
+1282,Sarah Davis,Male,79,176,118,32.46,Yes,Balanced
+5379,Alex Johnson,Female,35,178,95,17.36,Yes,Mediterranean
+1258,Emily Williams,Male,24,157,100,29.03,No,Balanced
+7693,John Smith,Male,38,160,62,32.18,Yes,Keto
+7804,Jane Smith,Male,70,161,56,28.63,Yes,Vegan
+4068,Emily Williams,Female,64,196,112,24.9,No,Low Carb
+2354,Sarah Brown,Female,80,161,91,15.96,No,Balanced
+6097,Sarah Jones,Male,37,169,85,43.36,No,Mediterranean
+2788,John Anderson,Male,61,188,113,32.41,Yes,Mediterranean
+4043,David Williams,Male,32,178,85,22.4,No,Keto
+4212,Michael Brown,Male,42,200,68,32.6,No,Vegan
+3899,Laura Garcia,Male,75,175,120,29.68,No,Vegan
+6928,Alex Williams,Male,46,151,55,26.09,No,Vegan
+4798,Anna Johnson,Female,36,196,104,36.51,No,Mediterranean
+4359,Anna Martinez,Male,66,155,96,26.81,No,Keto
+6426,Anna Garcia,Male,68,170,120,46.31,No,Low Carb
+3767,Sarah Brown,Male,31,183,64,24.69,No,Low Carb
+8455,John Williams,Male,27,170,64,30.98,Yes,Mediterranean
+8801,Chris Davis,Female,46,152,75,30.79,Yes,Vegan
+4832,Emily Miller,Female,40,161,83,19.2,Yes,Balanced
+8048,Chris Garcia,Female,56,197,70,40.27,Yes,Balanced
+2163,Laura Miller,Male,41,167,110,30.93,No,Vegan
+8980,Alex Anderson,Female,21,174,55,30.84,Yes,Balanced
+2905,Chris Garcia,Female,75,162,94,32.19,Yes,Balanced
+2470,David Anderson,Male,30,157,74,35.63,No,Keto
+6191,Sarah Smith,Female,32,180,89,31.8,Yes,Mediterranean
+3125,Alex Davis,Male,53,192,82,18.11,No,Balanced
+8893,Sarah Miller,Male,56,180,59,20.15,No,Keto
+6660,John Brown,Male,77,189,70,32.03,No,Mediterranean
+9614,Emily Garcia,Female,64,176,91,39.84,Yes,Mediterranean
+7372,Laura Martinez,Female,29,171,92,20.57,No,Balanced
+6308,Anna Miller,Female,72,189,74,24.17,No,Vegan
+6571,Chris Garcia,Male,20,153,107,24.68,Yes,Balanced
+9733,Sarah Johnson,Male,34,192,53,29.29,No,Mediterranean
+8698,John Davis,Female,27,194,113,30.42,Yes,Balanced
+4312,Alex Jones,Male,80,177,111,15.83,Yes,Low Carb
+4342,Michael Smith,Female,36,169,64,33.83,No,Low Carb
+3783,John Garcia,Male,65,153,118,19.53,Yes,Vegan
+5995,John Garcia,Male,38,193,106,24.33,No,Low Carb
+4810,David Brown,Male,64,189,61,39.08,No,Low Carb
+6302,Laura Jones,Male,76,184,101,24.69,Yes,Low Carb
+5794,Alex Johnson,Female,74,177,91,36.26,Yes,Mediterranean
+7248,Sarah Garcia,Male,19,152,91,18.67,No,Keto
+9154,Emily Miller,Male,57,188,68,30.24,No,Keto
+3744,Sarah Brown,Male,21,176,103,43.29,Yes,Vegan
+3536,Michael Brown,Male,22,198,55,16.73,No,Low Carb
+2260,Emily Miller,Male,34,183,101,27.51,No,Mediterranean
+8618,Anna Williams,Male,52,186,87,26.7,Yes,Low Carb
+4074,Sarah Garcia,Male,55,160,95,21.63,Yes,Mediterranean
+2377,Sarah Smith,Male,52,186,86,29.69,Yes,Vegan
+6949,Laura Williams,Female,71,165,74,17.51,Yes,Keto
+9532,Emily Brown,Male,47,161,65,31.25,No,Vegan
+1090,Alex Martinez,Male,40,193,115,36.93,No,Vegan
+7297,John Johnson,Male,24,197,101,25.71,Yes,Balanced
+7802,Emily Brown,Male,21,181,103,39.91,Yes,Vegan
+4593,Alex Williams,Female,18,182,95,17.17,No,Low Carb
+2009,Anna Davis,Male,27,184,60,34.26,No,Vegan
+4739,Chris Smith,Male,72,167,69,27.34,Yes,Vegan
+8138,Alex Garcia,Male,41,167,111,16.36,No,Keto
+8916,Michael Martinez,Female,61,159,102,40.0,Yes,Keto
+9756,Chris Jones,Female,72,155,64,25.7,Yes,Balanced
+1778,Jane Martinez,Female,32,198,59,28.4,No,Balanced
+2957,Michael Martinez,Female,35,176,53,24.68,Yes,Vegan
+8303,Chris Brown,Male,56,173,61,22.4,No,Mediterranean
+1146,Sarah Garcia,Female,51,180,106,33.43,Yes,Vegan
+3331,Chris Miller,Male,40,150,84,32.0,No,Keto
+2922,Laura Williams,Female,68,189,75,19.57,No,Keto
+1754,Emily Davis,Male,36,159,62,19.52,No,Low Carb
+6140,Emily Anderson,Male,53,189,67,19.66,No,Keto
+7803,Emily Davis,Female,51,186,64,41.55,No,Low Carb
+5365,David Garcia,Female,21,170,101,31.47,Yes,Keto
+1715,Alex Garcia,Male,41,150,103,25.25,No,Low Carb
+5963,David Brown,Male,80,171,92,34.75,No,Keto
+2327,Anna Smith,Male,40,173,96,35.93,No,Keto
